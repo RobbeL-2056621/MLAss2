@@ -153,4 +153,4 @@ cython_debug/
 
 /Datasets/unsynth
 .idea/vcs.xml
-model.keras
+*.keras
